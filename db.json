@@ -1,9 +1,19 @@
 {
   "users": [
     {
-      "id": 1,
       "username": "demo_gamer",
-      "password": "demo_password"
+      "password": "demo_password",
+      "id": 1
+    },
+    {
+      "username": "ajv",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "rdj",
+      "password": "456",
+      "id": 3
     }
 ]
 }
