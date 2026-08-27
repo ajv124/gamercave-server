@@ -15,5 +15,36 @@
       "password": "456",
       "id": 3
     }
-]
+  ],
+  "games":[
+    {
+      "id":"ug1",
+      "userId": "1",
+      "gameId": 3498,
+      "gameTitle": "Grand Theft Auto V",
+      "gameImage": "https://media.rawg.io/media/games/456/456547672b184b007.jpg",
+      "rating": 4.47,
+      "genres": ["Action", "Adventure"],
+      "status": "wishlist"
+    },
+    {
+      "id": "ug2",
+      "userId": "1",
+      "gameId": 3328,
+      "gameTitle": "The Witcher 3: Wild Hunt",
+      "gameImage": "https://media.rawg.io/media/games/618/618c47b6e3693f4.jpg",
+      "rating": 4.66,
+      "genres": ["Action", "RPG"],
+      "status": "completed" 
+    }
+  ],
+  "memories":[
+    {
+      "id": "m1",
+      "userId": "1",
+      "userGameId": "ug2",
+      "notes": ["Defeated Eredin on Death March difficulty!","Victory at Kaer Morhen"],
+      "images": ["https://example.com/my-gameplay-screenshot.jpg","https://example.com/my-gameplay-screenshot-2.jpg"]
+    }
+  ]
 }
