@@ -25,7 +25,8 @@
       "gameImage": "https://media.rawg.io/media/games/456/456547672b184b007.jpg",
       "rating": 4.47,
       "genres": ["Action", "Adventure"],
-      "status": "wishlist"
+      "status": "wishlist",
+      "url": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
     },
     {
       "id": "ug2",
@@ -35,7 +36,8 @@
       "gameImage": "https://media.rawg.io/media/games/618/618c47b6e3693f4.jpg",
       "rating": 4.66,
       "genres": ["Action", "RPG"],
-      "status": "completed" 
+      "status": "completed" ,
+      "url":"https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt__Complete_Edition/"
     }
   ],
   "memories":[
