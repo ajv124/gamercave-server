@@ -2,18 +2,18 @@
   "users": [
     {
       "id": "1",
-      "username": "u1",
-      "password": "123"
+      "username": "a",
+      "password": "1"
     },
     {
       "id": "2",
-      "username": "u2",
-      "password": "123"
+      "username": "b",
+      "password": "1"
     },
     {
       "id": "3",
-      "username": "u3",
-      "password": "123"
+      "username": "c",
+      "password": "1"
     }
   ],
   "games": [
@@ -22,10 +22,10 @@
       "userId": "1",
       "gameId": 3498,
       "gameTitle": "Grand Theft Auto V",
-      "gameImage": "https://media.rawg.io/media/games/20a/20a72131807e2210a1463926a3751615.jpg",
+      "gameImage": "https://media.rawg.io/media/games/20a/20a57492455418a803d2318ef7e1014c.jpg",
       "rating": 4.47,
       "genres": ["Action", "Adventure"],
-      "status": "wishlist",
+      "status": "Wishlist",
       "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"
     },
     {
@@ -33,10 +33,10 @@
       "userId": "1",
       "gameId": 3328,
       "gameTitle": "The Witcher 3: Wild Hunt",
-      "gameImage": "https://media.rawg.io/media/games/618/618c47b65709309616e6965471a921cc.jpg",
+      "gameImage": "https://media.rawg.io/media/games/618/618c47b6e3693f40eb8412dd08d1e84e.jpg",
       "rating": 4.66,
       "genres": ["Action", "RPG"],
-      "status": "completed",
+      "status": "Completed",
       "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
     },
     {
@@ -44,10 +44,10 @@
       "userId": "1",
       "gameId": 4200,
       "gameTitle": "Portal 2",
-      "gameImage": "https://media.rawg.io/media/games/2ba/2bac0e87cf45715da7b9df0911ae16d4.jpg",
+      "gameImage": "https://media.rawg.io/media/games/2ba/2bac0e87cf45715d26b0511878e83f01.jpg",
       "rating": 4.61,
       "genres": ["Puzzle", "Shooter"],
-      "status": "playing",
+      "status": "Completed",
       "url": "https://store.steampowered.com/app/620/Portal_2/"
     },
     {
@@ -55,132 +55,132 @@
       "userId": "1",
       "gameId": 5286,
       "gameTitle": "Tomb Raider",
-      "gameImage": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eee6302393.jpg",
+      "gameImage": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eee6371db0.jpg",
       "rating": 4.05,
       "genres": ["Action", "Adventure"],
-      "status": "completed",
+      "status": "Library",
       "url": "https://store.steampowered.com/app/203160/Tomb_Raider/"
     },
     {
       "id": "ug5",
       "userId": "1",
-      "gameId": 13536,
+      "gameId": 12020,
       "gameTitle": "Left 4 Dead 2",
-      "gameImage": "https://media.rawg.io/media/games/46d/46d543e42f60d249d54c090f74d3e78f.jpg",
+      "gameImage": "https://media.rawg.io/media/games/d58/d58ed94394a9684129b6736a88cd6479.jpg",
       "rating": 4.09,
       "genres": ["Action", "Shooter"],
-      "status": "wishlist",
+      "status": "Library",
       "url": "https://store.steampowered.com/app/550/Left_4_Dead_2/"
     },
     {
       "id": "ug6",
       "userId": "2",
-      "gameId": 4291,
-      "gameTitle": "Counter-Strike: Global Offensive",
-      "gameImage": "https://media.rawg.io/media/games/73e/73e26264ed1d614c1db9fe9805c6ef30.jpg",
-      "rating": 3.57,
-      "genres": ["Action", "Shooter"],
-      "status": "playing",
-      "url": "https://store.steampowered.com/app/730/CounterStrike_2/"
+      "gameId": 41494,
+      "gameTitle": "Cyberpunk 2077",
+      "gameImage": "https://media.rawg.io/media/games/7cf/7cfc92f8e41387d2c37e16d6149f1a2e.jpg",
+      "rating": 4.15,
+      "genres": ["Action", "RPG"],
+      "status": "Library",
+      "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
     },
     {
       "id": "ug7",
       "userId": "2",
-      "gameId": 12020,
-      "gameTitle": "Left 4 Dead",
-      "gameImage": "https://media.rawg.io/media/games/476/476178ef18ab0534771d09a6fdb6e46f.jpg",
-      "rating": 4.11,
-      "genres": ["Action", "Shooter"],
-      "status": "completed",
-      "url": "https://store.steampowered.com/app/500/Left_4_Dead/"
+      "gameId": 28,
+      "gameTitle": "Red Dead Redemption 2",
+      "gameImage": "https://media.rawg.io/media/games/511/51182150fb5e3404f6f31b65ac2d60f4.jpg",
+      "rating": 4.59,
+      "genres": ["Action", "Adventure"],
+      "status": "Completed",
+      "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
     },
     {
       "id": "ug8",
       "userId": "2",
-      "gameId": 5679,
-      "gameTitle": "The Elder Scrolls V: Skyrim",
-      "gameImage": "https://media.rawg.io/media/games/7cf/7cfc92f8ef70144e11d9e567412a55ee.jpg",
-      "rating": 4.42,
+      "gameId": 326243,
+      "gameTitle": "Elden Ring",
+      "gameImage": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7ed3745a65280d.jpg",
+      "rating": 4.41,
       "genres": ["Action", "RPG"],
-      "status": "wishlist",
-      "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/"
+      "status": "Wishlist",
+      "url": "https://store.steampowered.com/app/1245620/ELDEN_RING/"
     },
     {
       "id": "ug9",
       "userId": "2",
-      "gameId": 4062,
-      "gameTitle": "BioShock Infinite",
-      "gameImage": "https://media.rawg.io/media/games/fc1/fc14073a17c05567304990795046392c.jpg",
-      "rating": 4.38,
-      "genres": ["Action", "Shooter"],
-      "status": "completed",
-      "url": "https://store.steampowered.com/app/8870/BioShock_Infinite/"
+      "gameId": 58175,
+      "gameTitle": "God of War",
+      "gameImage": "https://media.rawg.io/media/games/4be/4be6618694e3fa695ed230d3af866161.jpg",
+      "rating": 4.58,
+      "genres": ["Action", "Adventure"],
+      "status": "Completed",
+      "url": "https://store.steampowered.com/app/1593500/God_of_War/"
     },
     {
       "id": "ug10",
       "userId": "2",
-      "gameId": 802,
-      "gameTitle": "Borderlands 2",
-      "gameImage": "https://media.rawg.io/media/games/490/49016709f34da15b6164473b0c957729.jpg",
-      "rating": 4.02,
-      "genres": ["Action", "RPG"],
-      "status": "wishlist",
-      "url": "https://store.steampowered.com/app/49520/Borderlands_2/"
+      "gameId": 13536,
+      "gameTitle": "Hollow Knight",
+      "gameImage": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
+      "rating": 4.42,
+      "genres": ["Action", "Indie"],
+      "status": "Wishlist",
+      "url": "https://store.steampowered.com/app/367520/Hollow_Knight/"
     },
     {
       "id": "ug11",
       "userId": "3",
-      "gameId": 28,
-      "gameTitle": "Red Dead Redemption 2",
-      "gameImage": "https://media.rawg.io/media/games/511/511821865c41b656a74b3f28231084ef.jpg",
-      "rating": 4.59,
+      "gameId": 22511,
+      "gameTitle": "The Legend of Zelda: Breath of the Wild",
+      "gameImage": "https://media.rawg.io/media/games/cc1/cc18373c3999364677a61e08953d6250.jpg",
+      "rating": 4.53,
       "genres": ["Action", "Adventure"],
-      "status": "playing",
-      "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+      "status": "Completed",
+      "url": "https://www.nintendo.com/store/products/the-legend-of-zelda-breath-of-the-wild-switch/"
     },
     {
       "id": "ug12",
       "userId": "3",
-      "gameId": 32,
-      "gameTitle": "Destiny 2",
-      "gameImage": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd924179d42f70d8ad.jpg",
-      "rating": 3.56,
+      "gameId": 3939,
+      "gameTitle": "PAYDAY 2",
+      "gameImage": "https://media.rawg.io/media/games/73e/73e262b69adba42664d4a8ee92ae249d.jpg",
+      "rating": 3.51,
       "genres": ["Action", "Shooter"],
-      "status": "completed",
-      "url": "https://store.steampowered.com/app/1085660/Destiny_2/"
+      "status": "Library",
+      "url": "https://store.steampowered.com/app/218620/PAYDAY_2/"
     },
     {
       "id": "ug13",
       "userId": "3",
-      "gameId": 58175,
-      "gameTitle": "God of War",
-      "gameImage": "https://media.rawg.io/media/games/4be/4be6e06085a6f2f4e56fc49d81078b60.jpg",
-      "rating": 4.58,
-      "genres": ["Action", "Adventure"],
-      "status": "completed",
-      "url": "https://store.steampowered.com/app/1593500/God_of_War/"
+      "gameId": 1030,
+      "gameTitle": "Limbo",
+      "gameImage": "https://media.rawg.io/media/games/942/9424c6c16b67eab6929d12997620d2c0.jpg",
+      "rating": 4.15,
+      "genres": ["Puzzle", "Indie"],
+      "status": "Wishlist",
+      "url": "https://store.steampowered.com/app/48000/LIMBO/"
     },
     {
       "id": "ug14",
       "userId": "3",
       "gameId": 3070,
       "gameTitle": "Fallout 4",
-      "gameImage": "https://media.rawg.io/media/games/d82/d82362545e709f325b90c90b00a2c3c9.jpg",
+      "gameImage": "https://media.rawg.io/media/games/d15/d152723789077739b6574f26049e4d50.jpg",
       "rating": 3.8,
       "genres": ["Action", "RPG"],
-      "status": "wishlist",
+      "status": "Library",
       "url": "https://store.steampowered.com/app/377160/Fallout_4/"
     },
     {
       "id": "ug15",
       "userId": "3",
-      "gameId": 2454,
-      "gameTitle": "Doom",
-      "gameImage": "https://media.rawg.io/media/games/c4b/c4b0cab1a174d4e4e644d626e6520ace.jpg",
-      "rating": 4.38,
-      "genres": ["Action", "Shooter"],
-      "status": "wishlist",
-      "url": "https://store.steampowered.com/app/379720/DOOM/"
+      "gameId": 480,
+      "gameTitle": "Resident Evil 7: Biohazard",
+      "gameImage": "https://media.rawg.io/media/games/8d3/8d358a12c3708d49f52724f8a95d75d0.jpg",
+      "rating": 4.34,
+      "genres": ["Action", "Horror"],
+      "status": "Wishlist",
+      "url": "https://store.steampowered.com/app/418370/RESIDENT_EVIL_7_biohazard/"
     }
   ],
   "memories": [
@@ -188,29 +188,49 @@
       "id": "m1",
       "userId": "1",
       "userGameId": "ug2",
-      "notes": ["Defeated Eredin on Death March difficulty!", "Completed all Witcher Contracts."],
-      "images": ["https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800"]
+      "notes": [
+        "Defeated Eredin on Death March difficulty!",
+        "Completed all Witcher Contracts in Velen"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600",
+        "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600"
+      ]
     },
     {
       "id": "m2",
       "userId": "1",
-      "userGameId": "ug4",
-      "notes": ["Found all hidden collectibles on the island."],
-      "images": ["https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800"]
+      "userGameId": "ug3",
+      "notes": [
+        "Finished co-op campaign with a friend in one sitting!"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=600"
+      ]
     },
     {
       "id": "m3",
       "userId": "2",
       "userGameId": "ug7",
-      "notes": ["Survived No Mercy campaign with full team."],
-      "images": ["https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800"]
+      "notes": [
+        "Reached 100% completion achievement",
+        "Found all hidden easter eggs in New Austin"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600"
+      ]
     },
     {
       "id": "m4",
       "userId": "3",
-      "userGameId": "ug13",
-      "notes": ["Defeated Sigrun the Valkyrie Queen after hours of trying."],
-      "images": ["https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800"]
+      "userGameId": "ug11",
+      "notes": [
+        "Unlocked all 120 shrines!",
+        "Defeated Calamity Ganon without taking damage"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600"
+      ]
     }
   ]
 }
